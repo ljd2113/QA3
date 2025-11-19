@@ -1,4 +1,4 @@
-# QA3
+# QA3 Ai Email Newsletter Automation
 # QA3
 
 # 🧠 AI-Powered News Newsletter Generator
